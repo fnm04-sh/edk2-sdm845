@@ -1,4 +1,4 @@
-# EDK2 UEFI Firmware For Snapdragon 845 (sdm845)
+# Soggyfide EDK2 UEFI Firmware 
 
 ![Github](https://img.shields.io/github/downloads/edk2-porting/edk2-sdm845/total)
 ![Github](https://img.shields.io/github/v/release/edk2-porting/edk2-sdm845?include_prereleases)
